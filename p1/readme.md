@@ -1,6 +1,6 @@
-# Project Title
+# July Spa Booking System
 
-July Spa Booking System
+
 
 ## Description
 
