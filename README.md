@@ -1,35 +1,33 @@
 # Bootcamp-Project-1-Python
-### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
 
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
+## Start your own business !
+
+As a **startup business women** that want to invest her money, seeking to invest 50000 Riyals with most profit each year, she have reached out to various companies, and received sevral of offers from 5 companies with tempting offers.
+
+The companies offers:
+|    | Revenue Ratio | Loss Ratio |
+|---|---|---|
+| Company 1  | 7.5  | 2.5  |
+| Company 2  | 4.3  | 5.7  |
+| Company 3  | 4  | 6  |
+| Company 4  | 2.22  | 7.78  |
+| Company 5  | 9.1  | 0.9 |
+
+*Note this ratios are default ratios*
+
+At this stage, she is confused about which of the companies offered her the best offer in terms of **more profit** and **less potential loss**.
+
+# BE SUCCESSFUL WITH **US** 
+I bulid this system to help all startup business man/women. 
+
+### Our system:
+- Calculate the revenue and potential loss for you.
+- Chose the best company for you.
+- Count the years to recover your whole budget.
+
+  
 
 
 
-## Example: Riyadh Season Reservations
 
-**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
 
-As a visitor, I should be able to do the following:
-
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my ticket purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of the ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
-
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
-- Due Date: Sat 29, at 11:00 p.m.
-- The Final presentation will be on Sunday (5 min for each one).
