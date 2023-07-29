@@ -20,7 +20,7 @@ At this stage, she is confused about which of the companies offered her the best
 # BE SUCCESSFUL WITH **US** 
 I built this system to help all startup business man/women to have full knowledge of all the possibilities that will face them at there beginning of the business.
 
-### Our system:
+### The system:
 - Calculate the revenue and potential loss for you.
 - Chose the best company for you.
 - Count the years to recover your whole budget.
