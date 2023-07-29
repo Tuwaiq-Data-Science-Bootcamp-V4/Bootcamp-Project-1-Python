@@ -1,35 +1,27 @@
-# Bootcamp-Project-1-Python
-### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
+# Bootcamp-Project-1-Python-Rakan
 
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
+## Profitable App for the Google Play Markets
 
 
+#### The goal of this analysis is to find mobile app that is profitable for the Google play market.
 
-## Example: Riyadh Season Reservations
+ I assumed as a data analyst working for some company that builds android apps is help the developers to make data-driven decisions.
 
-**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+```The apps are Free.``` 
 
-As a visitor, I should be able to do the following:
+```The main source of revenue is in-app ads.```
 
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my ticket purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of the ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
+> So it means the revenue for any app is influenced by the number of users that use the app.
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
-- Due Date: Sat 29, at 11:00 p.m.
-- The Final presentation will be on Sunday (5 min for each one).
+I took the dataset from **Kaggle**
+
+[Google play Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+
+---
+
+
+**The project requirements are all met except Lambda function**:
+
+- Use a Lambda function
+
+*I didn't feel the need to use it.*
