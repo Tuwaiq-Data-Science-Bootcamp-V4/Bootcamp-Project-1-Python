@@ -1,35 +1,34 @@
-# Bootcamp-Project-1-Python
-### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
+# CVSS Calculator 
+## What is CVSS ?
+***Common Vulnerability Scoring System (CVSS)*** is an industry standard for assessing the severity of security vulnerabilities. 
+It provides a technique for scoring each vulnerability on a variety of measures.
+<br>
 
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
+<img src="https://github.com/arwaalnamlan/Bootcamp-Project-1-Python/blob/main/CVSS.png" alt="DS" width="900" height="400">
 
 
 
-## Example: Riyadh Season Reservations
+#### The cvss score requires to calculate the following:
+- exploitability score
+- impact score
+- impact function
+  
+#### The analysts scoring a new vulnerability begin by rating the vulnerability on *six different measures* :
 
-**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+| **Access Vector** | **Access Complexity** | **Authentication** | **Confidentiality** | **Integrity** | **Availability** |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| How an attacker can gain access to the target system |  The level of complexity required to exploit a vulnerability | The level of access required for an attacker to exploit a vulnerability | The potential impact of a vulnerability on the confidentiality of information  | The impact that a vulnerability can have on the integrity of a system or data | The impact of a vulnerability on the availability of the affected system | 
 
-As a visitor, I should be able to do the following:
+<br>
 
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my ticket purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of the ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
+## What is the CVSS Calculator ? 
+***CVSS Calculator*** is an online tool that scoring each vulnerability on a variety of measures. The analyst should be able to do the following tasks : 
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
-- Due Date: Sat 29, at 11:00 p.m.
-- The Final presentation will be on Sunday (5 min for each one).
+
+- Display the meaning of each metric.
+- Choose the metrics of the vulnerability that he wants to evaluate.
+- Calculate the CVSS, exploitability score, impact score, and impact function.
+- Show the severity of security vulnerability.
+
+
+
