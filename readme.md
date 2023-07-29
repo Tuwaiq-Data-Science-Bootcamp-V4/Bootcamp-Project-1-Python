@@ -18,18 +18,3 @@ This is a simple Event Ticket Booking System implemented in Python. The system a
 
 - Get User Recommendations: Users can get event recommendations based on their purchase history and the tags associated with the events they have previously purchased.
 
-## Usage
-
-1. Install Python: Make sure you have Python installed on your system. You can download it from the official website (https://www.python.org/) and follow the installation instructions.
-
-2. Run the Application: Save the provided Python code in a file, e.g., `event_booking_system.py`, and run the script using the Python interpreter.
-
-3. Interact with the Application: The application will display a main menu with different options. You can choose an option by entering the corresponding number (1-8). Follow the prompts to perform various actions, such as browsing events, adding tickets to the cart, searching for events, etc.
-
-4. Event and User Data: The code includes sample event data (two events) and sample user data (one user). You can add more events and users by modifying the code accordingly or load event and user data from files or a database.
-
-5. Data Persistence (Optional): The code includes optional code to save the `events` list and `users` dictionary to files (`events.json` and `users.json`) for data persistence. If you want to enable data persistence, make sure to uncomment the relevant lines.
-
-## Note
-
-This is a basic implementation of an event ticket booking system for learning purposes. In a real-world scenario, a complete system would require additional features such as user authentication, secure payment processing, error handling, and data validation. Additionally, you may consider using a database to store event and user data for scalability and reliability.
