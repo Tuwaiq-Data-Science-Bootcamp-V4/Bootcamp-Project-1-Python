@@ -1,35 +1,19 @@
-# Bootcamp-Project-1-Python
-### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
-
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
+# Employee Information Management Systes
 
 
+## The system was designed to manage employees information in the dictionary, which the HR employee can access and enter, modify and view. It is a dictionary containing the employee's name, position, salary and IBAN.
 
-## Example: Riyadh Season Reservations
 
-**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+### It is abwet three Function:
+- Modify and Add.
+- View information.
+- Print name, time and date.
 
-As a visitor, I should be able to do the following:
 
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my ticket purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of the ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
-- Due Date: Sat 29, at 11:00 p.m.
-- The Final presentation will be on Sunday (5 min for each one).
+The modify and add **(UpdateOrAdd_data_set())**: This function allows the HR employee to modify existing employee information or add new employee to the dictionary and print in the dictionary
+
+The view information **(view_data_set())**: This function allows the HR employee to view the information of all the employees stored in the dictionary. The function iterates over the dictionary and prints out the employee ID, name, position, salary, and IBAN for each employee.
+
+The print name, time and date **(name_date)**:This function takes the name of the HR employee as input and prints their name, current time, and date.
+
