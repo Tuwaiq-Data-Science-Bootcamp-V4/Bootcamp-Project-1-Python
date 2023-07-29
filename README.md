@@ -8,17 +8,18 @@ It provides a technique for scoring each vulnerability on a variety of measures.
 
 
 
-#### The cvss score requires to calculate the following:
+### CVSS Scores :
 - exploitability score
 - impact score
 - impact function
   
-#### The analysts scoring a new vulnerability begin by rating the vulnerability on *six different measures* :
+### Measures :
 
 | **Access Vector** | **Access Complexity** | **Authentication** | **Confidentiality** | **Integrity** | **Availability** |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | How an attacker can gain access to the target system |  The level of complexity required to exploit a vulnerability | The level of access required for an attacker to exploit a vulnerability | The potential impact of a vulnerability on the confidentiality of information  | The impact that a vulnerability can have on the integrity of a system or data | The impact of a vulnerability on the availability of the affected system | 
 
+[Read More](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System#Terminology)
 <br>
 
 ## What is the CVSS Calculator ? 
