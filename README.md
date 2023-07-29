@@ -1,35 +1,23 @@
-# Bootcamp-Project-1-Python
-### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
+#  Compound Interest Calculator
+### Determine how much your money can grow using the power of compound interest.
 
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
+*Compound interest* meaning that the interest you earn each year or each period of time is added to your principal, so that the balance doesn't merely grow, it grows at an increasing rate.
 
 
 
-## Example: Riyadh Season Reservations
+## Overview
 
-**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+calculator that calculate Compound interest and Simple interest
 
-As a visitor, I should be able to do the following:
+- Ask user to enter principal amount, interest rate P.C% and number of periods.
+- View compound interest and profit period for each period.
+- Investment value.
+- Total interesr / earnings.
+- Percentage profit.
 
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my ticket purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of the ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
-- Due Date: Sat 29, at 11:00 p.m.
-- The Final presentation will be on Sunday (5 min for each one).
+
+  
+
+
+
