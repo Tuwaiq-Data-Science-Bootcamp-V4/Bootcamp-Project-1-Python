@@ -4,7 +4,7 @@
 ## The system was designed to manage employees information in the dictionary, which the HR employee can access and enter, modify and view. It is a dictionary containing the employee's name, position, salary and IBAN.
 
 
-### It is abwet three Function:
+### It is about three Function:
 - Modify and Add.
 - View information.
 - Print name, time and date.
