@@ -101,6 +101,7 @@ def delete_from_cart(cart_elements):
 ```
 ***Add Cart Elements***
 ```python
+def add_to_cart(cart_elements):
     choice = int(input('Would you like to book a ticket? please write 1 to yes and 0 to no'))
     while choice != 0:
         if(choice == 1):
