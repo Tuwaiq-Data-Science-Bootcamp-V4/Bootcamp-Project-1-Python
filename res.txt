@@ -1,0 +1,7 @@
+Helpful Resources:
+
+1. https://bobbyhadz.com/blog/python-check-if-string-contains-uppercase-letters
+2. https://stackoverflow.com/questions/57062794/is-there-a-way-to-check-if-a-string-contains-special-characters
+3. https://www.w3schools.com/python/module_random.asp
+4. https://docs.python.org/3/library/string.html
+5. https://www.youtube.com/watch?v=yIhSk4Ws0ag
