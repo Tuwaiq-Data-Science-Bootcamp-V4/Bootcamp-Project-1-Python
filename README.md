@@ -1,6 +1,6 @@
 # 🛍️ Shopping List Manager
 
-Command-line Python program to manage your shopping list. The program allows you to add items with quantities, remove items, view the current list, and sort the list alphabetically.
+Jupyter Notebook Python program to manage your shopping list. The program allows you to add items with quantities, remove items, view the current list, and sort the list alphabetically.
 
 ## 🌟 Features
 
@@ -12,6 +12,7 @@ Command-line Python program to manage your shopping list. The program allows you
 ## 📋 Requirements
 
 - Python 3.x
+- Jupyter Notebook
 
 ## 🚀 How to Use
 
@@ -20,11 +21,7 @@ Command-line Python program to manage your shopping list. The program allows you
 
 ### Usage
 
-Run the Python script:
-
-```bash
-python shopping_list_manager.py
-```
+Run the Jupyter Notebook and open the 'shopping_list_manager.ipynb' in your web browser, and you can interact with it by running the code cells and following the instructions provided.
 
 ## Options
 
@@ -40,8 +37,6 @@ Follow the on-screen instructions to interact with the program.
 
 ## 📝 Examples
 ```
-$ python shopping_list_manager.py
-
 Welcome to the Shopping List Manager program
 
 The choices
