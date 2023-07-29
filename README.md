@@ -18,7 +18,7 @@ The companies offers:
 At this stage, she is confused about which of the companies offered her the best offer in terms of **more profit** and **less potential loss**.
 
 # BE SUCCESSFUL WITH **US** 
-I bulid this system to help all startup business man/women. 
+I built this system to help all startup business man/women to have full knowledge of all the possibilities that will face them at there beginning of the business.
 
 ### Our system:
 - Calculate the revenue and potential loss for you.
