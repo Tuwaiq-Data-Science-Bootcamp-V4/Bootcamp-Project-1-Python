@@ -1,6 +1,6 @@
 # Linear Regression in Python
 
-This project implements a simple Linear Regression algorithm in Python. It consists of several functions that allow you to perform linear regression, calculate the cost, gradients, and optimize the coefficients to fit the data.
+This project implements a simple Linear Regression algorithm in Python. It consists of several functions that allow you to perform linear regression, calculate the cost, gradients, and optimize the coefficients to fit the data. Using Mean Squared Error and Gradient descent, it was able to perform in the right direction.
 
 ## Functions
 
