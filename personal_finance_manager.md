@@ -22,5 +22,5 @@ This is a simple personal finance manager program that allows you to track your 
 - The program uses a `break` statement to exit the loop when the user chooses to exit.
 
 ## Final Deliverables
-- `personal_finance_manager.ipynb`: The Python script containing the personal finance manager program.
+- `Project-1-Python.ipynb`: The Python script containing the personal finance manager program.
 - `personal_finance_manager.md`: This document, created by Alwaleed Alkhdairi, describes the personal finance manager project.
