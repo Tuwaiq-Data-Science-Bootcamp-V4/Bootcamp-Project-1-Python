@@ -7,3 +7,7 @@
 -	Recommends you the amount that you should invest by subtracting the total expenses from the total income 
 -	It gives you some recommendations about whether you need to increase your income or reduce your expenses 
 -	Finally print your financial record
+
+## References
+
+-  Banque Saudi Fransi Intro to Financial SustainAbility
