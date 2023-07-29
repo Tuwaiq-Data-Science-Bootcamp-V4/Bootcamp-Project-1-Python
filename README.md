@@ -28,7 +28,7 @@ It provides a technique for scoring each vulnerability on a variety of measures.
 
 - Display the meaning of each metric.
 - Choose the metrics of the vulnerability that he wants to evaluate.
-- Calculate the CVSS, exploitability score, impact score, and impact function.
+- Calculate the CVSS, exploitability score, and impact score.
 - Show the severity of security vulnerability.
 
 
