@@ -1,5 +1,5 @@
 #  Compound Interest Calculator
-### Determine how much your money can grow using the power of compound interest.
+##### Determine how much your money can grow using the power of compound interest.
 
 *Compound interest* meaning that the interest you earn each year or each period of time is added to your principal, so that the balance doesn't merely grow, it grows at an increasing rate.
 
