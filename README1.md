@@ -10,4 +10,4 @@
 
 ## References
 
--  Banque Saudi Fransi Intro to Financial SustainAbility
+-  Banque Saudi Fransi Intro to Financial Sustainability
